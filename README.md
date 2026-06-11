@@ -1,2 +1,2 @@
-# ethical hacking assihnment
+# ethical hacking assignment
 
